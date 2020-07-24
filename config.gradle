@@ -1,0 +1,8 @@
+ext {
+    //注意：该 MASTERSECRET 仅用于测试推送功能使用，对外发布请勿配置该值，避免泄漏您的 MASTERSECRET 的值。
+    MASTERSECRET = ""
+
+
+    //server url
+    SERVER_URL = "https://restapi.getui.com/"
+}
